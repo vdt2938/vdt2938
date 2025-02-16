@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vdt2938
+- 👋 Hi, my name is Van Taylor
 - 👀 I’m interested in build a website and app 
 - 🌱 I’m currently learning frontend and backend langauge 
 - 💞️ I’m looking to collaborate on ...
